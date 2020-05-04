@@ -1,2 +1,2 @@
 # Battleship
-A project from Microsoft's Object Oriented Programming in Java course
+A project I completed while taking Microsoft's Object Oriented Programming in Java course.
